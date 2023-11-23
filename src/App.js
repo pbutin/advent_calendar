@@ -16,7 +16,7 @@ function App() {
           height: '100vh',
         }}/>
       <article> 
-        <h1>Calendrier de l'Avent 2023</h1> 
+        <h1>Pourquoi je t'aime ? <sub>(et quelques autres surprises)</sub></h1> 
         <div className="bg-holder" style={{ backgroundImage: `url(${bg})` }}>
           <ul id="adventDoors">
             {tiles.map(tile => {
