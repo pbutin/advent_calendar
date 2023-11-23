@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/advent_calendar/static/css/main.1da7f623.css",
+    "main.js": "/advent_calendar/static/js/main.61dc2dcc.js",
+    "static/media/image.png": "/advent_calendar/static/media/image.bd0dde2f1ca63717b78a.png",
+    "static/media/17.png": "/advent_calendar/static/media/17.297e2a303e74ad82f5c9.png",
+    "static/media/24.png": "/advent_calendar/static/media/24.73b224e19ec33bc271ca.png",
+    "static/media/10.png": "/advent_calendar/static/media/10.512ae347a48ca4b036ac.png",
+    "static/media/20.png": "/advent_calendar/static/media/20.18588f6b10c03a6e04b9.png",
+    "static/media/3.png": "/advent_calendar/static/media/3.c06df9bb6879fa396d09.png",
+    "static/media/23.png": "/advent_calendar/static/media/23.d20dbf209186782a3de4.png",
+    "static/media/12.png": "/advent_calendar/static/media/12.ff4d6acf7b0b13ce219d.png",
+    "static/media/6.png": "/advent_calendar/static/media/6.2d427f23a4c1eaaf9033.png",
+    "static/media/2.png": "/advent_calendar/static/media/2.3c7add3b34f9457faa5c.png",
+    "static/media/15.png": "/advent_calendar/static/media/15.d78d16ea1c5b1373c4b8.png",
+    "static/media/18.png": "/advent_calendar/static/media/18.b2dc08490b3d9ebe8655.png",
+    "static/media/21.png": "/advent_calendar/static/media/21.184c9d3c4a3b04056eda.png",
+    "static/media/16.png": "/advent_calendar/static/media/16.1cd9bd1d7122244ccceb.png",
+    "static/media/9.png": "/advent_calendar/static/media/9.655cc84f735a9db52231.png",
+    "static/media/5.png": "/advent_calendar/static/media/5.f053f54548b93c510989.png",
+    "static/media/14.png": "/advent_calendar/static/media/14.022cbf2a1de22a4c121f.png",
+    "static/media/19.png": "/advent_calendar/static/media/19.29c0937701337d6445a3.png",
+    "static/media/4.png": "/advent_calendar/static/media/4.f3ee1b054910b2f4593e.png",
+    "static/media/13.png": "/advent_calendar/static/media/13.4a4ac837074dc6bd97c8.png",
+    "static/media/7.png": "/advent_calendar/static/media/7.a58a604df9eba59e47ae.png",
+    "static/media/11.png": "/advent_calendar/static/media/11.1df5b97cf836920e7815.png",
+    "static/media/22.png": "/advent_calendar/static/media/22.ca4ec73c878a30fc7a9a.png",
+    "static/media/1.png": "/advent_calendar/static/media/1.07104468add57a7c40e4.png",
+    "static/media/8.png": "/advent_calendar/static/media/8.fad3c43dfb4a4a49d532.png",
+    "static/media/noeud.png": "/advent_calendar/static/media/noeud.c7b42dc9a079843c8a70.png",
+    "index.html": "/advent_calendar/index.html",
+    "main.1da7f623.css.map": "/advent_calendar/static/css/main.1da7f623.css.map",
+    "main.61dc2dcc.js.map": "/advent_calendar/static/js/main.61dc2dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da7f623.css",
+    "static/js/main.61dc2dcc.js"
+  ]
+}
