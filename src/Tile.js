@@ -15,12 +15,12 @@ function Tile({jour}) {
   return (
     <div className='tileContainer'>
         <img src={noeud} alt="noeud" className={'noeud ' + (isFlipped ? "z-index" : "")} onClick={() => toogle()}/>
-        <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
-            <li className="front" onClick={() => toogle()}>{jour}</li>
-            <li className="back" >
+        {/* <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal"> */}
+            {!isFlipped && <li className="front" onClick={() => toogle()}>{jour}</li>}
+            {isFlipped &&  <li className="back" >
               <img className='tileImg' src={require('./img/days/' + jour + '.png')} alt={'Erreur chargement jour ' + jour}/>
-            </li>
-        </ReactCardFlip>
+            </li>}
+        {/* </ReactCardFlip> */}
     </div>
   );
 }
